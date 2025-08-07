@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Omi-Sachi
-- 👀 I’m interested in Machine Learning and AI dev
-- 🌱 I’m currently learning how to create reinforcement Learning models.
-- 💞️ I’m looking to collaborate on fun projects or competitions.
-- 📫 How to reach me can you message on git Hub?
+- 👀 I’m interested in Software Development/Engineering, aswell as Machine Learning which brought me into software development.
+- 🌱 I’m currently learning how to build Web applications.
+
 
 <!---
 Omi-Sachi/Omi-Sachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
